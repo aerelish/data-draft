@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "task": "Buy groceries",
+    "completed": false,
+    "userId": null 
+  },
+  {
+    "id": 2,
+    "task": "Walk the dog",
+    "completed": true,
+    "userId": 101 
+  },
+  {
+    "id": 3,
+    "task": "Finish coding project",
+    "completed": false,
+    "userId": 102 
+  },
+  {
+    "id": 4,
+    "task": "Call mom",
+    "completed": true,
+    "userId": null 
+  },
+  {
+    "id": 5,
+    "task": "Read a book",
+    "completed": false,
+    "userId": 101 
+  }
+]
